@@ -1,4 +1,5 @@
-print("""Addressed To Haydon
+Addressed To Haydon
+John Keats
 
 High-mindedness, a jealousy for good,
 A loving-kindness for the great man's fame,
@@ -14,6 +15,3 @@ What when a stout unbending champion awes
 Envy and malice to their native sty?
 Unnumbered souls breathe out a still applause,
 Proud to behold him in his country's eye.
-
-John Keats
-""")

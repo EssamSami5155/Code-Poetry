@@ -1,4 +1,5 @@
-print("""A Party Of Lovers
+A Party Of Lovers
+John Keats
 
 Pensive they sit, and roll their languid eyes,
 Nibble their toast, and cool their tea with sighs,
@@ -23,5 +24,3 @@ O pardon me -- I'm absent now and then.
 Where might my tailor live? I say again
 I cannot tell, let me no more be teaz'd --
 He lives in Wapping, might live where he pleas'd.'
-
-John Keats """)

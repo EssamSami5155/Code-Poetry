@@ -1,4 +1,5 @@
-print("""An Extempore
+An Extempore
+John Keats
 
 When they were come into Faery's Court
 They rang -- no one at home -- all gone to sport
@@ -97,6 +98,3 @@ Sham'd a good snore -- the Monkey-men descended
 And whom they thought to injure they befriended.
 They hung his Bridle on a topmost bough
 And of[f] he went run, trot, or anyhow--
-
-John Keats
-""")
