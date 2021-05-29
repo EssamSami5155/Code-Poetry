@@ -1,4 +1,5 @@
-print("""Apollo And The Graces
+Apollo And The Graces
+John Keats
 
 APOLLO
 WHICH of the fairest three
@@ -17,5 +18,3 @@ I - I - I - I
 And thy lyre shall never have a slackened string:
 I, I, I, I,
 Thro' the golden day will sing.
-John Keats
-""")
